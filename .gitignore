@@ -55,3 +55,6 @@ hs_err_pid*
 *.iml
 out
 gen
+target/classes/application.properties
+target/generated-sources/
+target/generated-test-sources/
